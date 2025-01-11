@@ -135,7 +135,7 @@ import BlogList from "./BlogList";
 const Home = () => {
     
     const [blogs, setBlogs]=useState(null);
-   useEffect(() => {
+    useEffect(() => {
     fetch('http://localhost:8000/blogs').then(
         res => {
             return res.json();
