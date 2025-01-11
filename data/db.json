@@ -1,0 +1,7 @@
+{
+    "blogs": [
+        {"title":"Salaar","body": "action movie", "author":"Prashanth","id":1},
+        {"title":"Kalki","body": "Scifi movie", "author":"Nag Ashwin","id":2},
+        {"title":"Vikram","body": "action movie", "author":"lokesh","id":3}
+    ]
+}
